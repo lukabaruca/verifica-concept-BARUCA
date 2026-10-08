@@ -1,4 +1,3 @@
-ANOMALIE
 Dove	Valore letto	Che cosa non torna	Controllo fatto da me
 Concept - CS-03 Libeccio - L (m)	2400	Lunghezza fuori scala rispetto agli altri battelli (16-24 m circa)	Confronto con tutte le altre lunghezze presenti
 Concept - CS-04 Grecale - Dislocamento	8500 t	Dislocamento enormemente superiore agli altri concept (48-90 t)	Confronto con i dislocamenti della tabella
